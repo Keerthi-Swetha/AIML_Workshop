@@ -1,0 +1,12 @@
+               Postgresql-version 18.1.2 windows 64 bit 
+                                 |
+                       download and install
+                                 |
+                 uncheck the stackbuilder in components
+                                 |
+                 search for pgadmin in search bar
+                                 |
+                          >servers(click)
+                                 |
+                           give password(which gave in install process)
+
